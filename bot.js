@@ -350,7 +350,7 @@ client.on('message', message => {
 
 
 
-const devs = ["295909228328255488"]; //الايدي حقك
+const devs = ["515192585938272266"]; //الايدي حقك
 const adminprefix = ["S"]; // البرفكس
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
